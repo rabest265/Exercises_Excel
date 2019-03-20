@@ -1,3 +1,7 @@
+# ***** NOTE*****
+## If you need to copy the repository to review this excercise, there is a smaller repository (without vba) set up @ https://github.com/rabest265/Exercises_Python/tree/master/3%20Matplotlib
+
+
 # Pyber - Ride Sharing
 ## Observable Trends
 * Urban cities have the highest number of rides and drivers but the lowest average fares
